@@ -10,7 +10,7 @@
 
 int main() {
     float TEMP;
-    case UNIDAD;
+    int UNIDAD;
     printf("ingrese temperatura");
     scanf("%i", &TEMP);
     printf("elija una unidad de medida C o F");
