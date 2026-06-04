@@ -3,6 +3,11 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -13,14 +18,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42f9007d-68c2-4f72-a961-2c767a0515cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ejercicios_C/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_C/.idea/Ejercicios_C.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_C/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_C/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_C/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_C/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicas/Clase/01_04_pract1_c.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicas/Clase/01_04_pract_c.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios_C/ejercicios_guia1" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_C/ejercicios_guia1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicas/Clase/01_04_pract2_c.c" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/Clase/01_04_pract2_c.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +36,14 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="KYOsnxjk" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3C5i5XfafBRk30mrBf8o3SboJGg" />
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.01_04_pract2_c.c.executor": "Run",
+    "C/C++ File.01_04_pract_c.c.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,7 +63,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "//wsl.localhost/Ubuntu/home/user1/Practicas_facu/prueba2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,18 +71,32 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "CPPToolchains",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C/C++ File.01_04_pract_c.c">
     <configuration name="01_04_pract2_c.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prueba2" TARGET_NAME="01_04_pract2_c.c" CONFIG_NAME="01_04_pract2_c.c">
       <option name="sourceFile" value="Practicas\Clase\01_04_pract2_c.c" />
+      <option name="toolchainName" value="WSL" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="01_04_pract_c.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prueba2" TARGET_NAME="01_04_pract_c.c" CONFIG_NAME="01_04_pract_c.c">
+      <option name="sourceFile" value="Practicas\Clase\01_04_pract_c.c" />
+      <option name="toolchainName" value="WSL" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.01_04_pract_c.c" />
+      <item itemvalue="C/C++ File.01_04_pract2_c.c" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.01_04_pract_c.c" />
         <item itemvalue="C/C++ File.01_04_pract2_c.c" />
       </list>
     </recent_temporary>
@@ -93,7 +108,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775681648416</updated>
-      <workItem from="1775681649653" duration="858000" />
+      <workItem from="1775681649653" duration="1171000" />
+      <workItem from="1775683577427" duration="1868000" />
     </task>
     <servers />
   </component>
